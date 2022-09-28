@@ -1,0 +1,14 @@
+h1{
+    background-color: blue;
+    font-style: italic;
+    font-weight: bold;
+    font-size:larger;
+}
+#more{
+    color:aqua;
+}
+p{
+    color:chartreuse;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: var();
+}
